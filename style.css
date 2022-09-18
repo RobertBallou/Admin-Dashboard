@@ -108,8 +108,8 @@ h3, li {
     display: flex;
     flex-direction: column;
     width: minmax(200px, 1fr);
-    border-left: 5px cyan solid;
-    border-radius: 5px;
+    border-left: 7px cyan solid;
+    border-radius: 8px;
     box-shadow: 2px 2px #3ac91db6;
     padding: 15px;
     gap: 5px;
